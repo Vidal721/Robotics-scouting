@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Welcome - 935 Robotics scouting</title>
+		<script type="text/javascript"></script>
+    	<link href="data/styles.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<h1>WELCOME</h1>
+		<h2 style="text-align: center;">Team 935 RailerRobotics Scouting Program</h2>
+		<img id="titleRam" src="favicon.ico" alt="logo"/>
+		<h3 style="text-align: center;">Please select your position below</h3>
+		<div id="buttonList">
+			<a href="interface/scouter_main.html">I am a scouter</a>
+			<a href="interface/master_main.html">I am the master scouter</a>
+		</div>
+		<h4 style="text-align: center;">Version <span></span></h4>
+		<h5 style="text-align: center;">Origanally Written by Alex Rummel of Team 4855</h5>
+		<h5 style="text-align: center;">Modified by Austin Rich of Team 935</h5>
+	</body>
+	<script type="text/javascript" src="script/get_version.js"></script>
+	<script>
+		get_version();
+		document.querySelector("h4 span").innerHTML = get_version_string();
+	</script>
+</html>

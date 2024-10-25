@@ -1,24 +1,20 @@
-4855 Scouter
+Robotics Scouter
 ============
 ## Version 2020.5.1
 
-Before you use this program at a competition, please ensure that you are using the latest version. Check with your lead scouter to ensure that you are.
+Before you use this program at a competition, please ensure that you are using the latest version. Check ther versions file to make sure that you are.
 
 ### Installation
 
-If you're reading this, then you're either on GitHub or your scouter is already installed. If you're on GitHub, you can download this whole folder to your device and unzip it to a secure location on your device. If you're already all installed, then congratulations!
+If you want to install this software, you need to download the zip file and unzip it, you can do this by right-clicking it and clicking Extract All. Note, that if your school or district has a filter, you may be unable to extract the file. We are currently working on this issue and are hoping to solve it soon
 
 ### How to Run
 
-Double-click the index.html file. This should open up your default browser and begin the scouting program. The recommended browsers to use for the scouter are Google Chrome and Mozilla Firefox. Using any other browsers is discouraged, as the scouter has not been thoroughly tested in any other environments.
+Open the Index.html file to get started. Make sure that you are opening this in your web browser, not your programming software. Remember that the un-programming customization option can only be used once and should be done when you are 100% ready to modify it.
 
 ### Basic Usage
 
-You will be greeted with a screen that asks whether you are a scouter or if you are the master scouter. Do not switch between scouter or master scouter, as this can cause discrepencies and break the program. If you need to switch between the two for any reason, make sure you export wherever you are at to save your data and click Reset data.
-
-There are two types of forms: match forms and verbal forms. Match forms should be used strictly during matchplay, and they require you to record the event and the qualification match number of the match you're watching. Be sure this is accurate, as this information plays a key role in the backend processes of the scouter. Verbal forms should be used when walking from team-to-team and asking for information. Only one verbal form is necessary per event.
-
-As a scouter, every new scouting report you make is assigned a unique ID. For the most part, the ID is not really important for general use unless special debugging must be done. All of your reports will be saved if you X out of the window and return, but DO NOT COUNT ON YOUR DATA SAVING AFTER SHUTTING YOUR DEVICE DOWN.
+The first page you open will be the home page, when you open this you will see a master, and scouter button. If you are the master scouter you will set your information in the program or in the customization stage. Your passowrd and information is not 100% secure so make sure it's not a regular password you use.
 
 ### Exporting
 
